@@ -1,1 +1,9 @@
-README.md
+# MOT Docker IaC project
+
+
+## Getting started
+Please refer to the docker documentation
+
+
+## Get support
+- [Issues](https://github.com/MotDevSecOps/docker/issues)
